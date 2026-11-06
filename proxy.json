@@ -1,0 +1,54 @@
+
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "claude.ai",
+        "claude.com",
+        "anthropic.com",
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "adobe.com",
+        "adobeidentity.com",
+        "lovable.dev",
+        "xda-developers.com",
+        "boredpanda.com",
+        "figma.com",
+        "rutracker.org",
+        "rutracker.net",
+        "rutracker.nl",
+        "static.t-ru.org",
+        "rutrk.org",
+        "bzzoiro.com",
+        "uniplayer.net",
+        "themoviedb.org",
+        "plasticsengineering.org",
+        "ecigroup-global.com",
+        "ucon-acrobatics.com",
+        "epitome.inc",
+        "dyapparels.com",
+        "trendshift.io",
+        "theiet.org",
+        "rutracker.cc",
+        "myscript.com",
+        "plane.so",
+        "shopee.com",
+        "ansys.com",
+        "rand3d.com",
+        "resources.randsim.com",
+        "claudeusercontent.com",
+        "goodreads.com",
+        "gr-assets.com",
+        "dokumen.pub",
+        "ikea.com",
+        "3m.com",
+        "elevenlabs.io",
+        "miro.com"
+      ]
+    }
+  ]
+}
+  
